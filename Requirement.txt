@@ -1,0 +1,3 @@
+Scrapy==1.7.3
+mysql-connector==2.2.9
+spacy==2.1.8
